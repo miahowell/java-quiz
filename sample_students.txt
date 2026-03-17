@@ -1,0 +1,13 @@
+FirstName	LastName	UserName	Password	Role
+John	Doe	jdoe1	ABCDEF	Student
+Jane	Smith	jsmith	GHIJKL	Student
+Alice	Johnson	ajohnson2	MNOPQR	Student
+Bob	Brown	bbrown	STUVWX	Student
+Charlie	Davis	cdavis8	YZABCD	Student
+Emily	White	ewhite7	EFGHIJ	Student
+Frank	Harris	fharris	KLMNOP	Student
+Grace	Lee	glee2	QRSTUV	Student
+Henry	Martin	hmartin	WXYZAB	Student
+Ivy	King	iking	CDEFGH	Student
+Laura	Scott	lscott	IJKLMN	Instructor
+Mark	Wilson	mwilson1	OPQRST	Teacher
