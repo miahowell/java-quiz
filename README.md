@@ -6,6 +6,8 @@ It allows users to log in as either a student or a teacher, with different funct
 
 The system demonstrates object-oriented programming principles, file handling, and role-based access control.
 
+This project includes sample tect files with dummy data to demonstrate functionality. Replace with real data as needed.
+
 ## Features
 
 Student Functionality
